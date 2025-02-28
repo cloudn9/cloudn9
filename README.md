@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @cloudn9
-- 👀 I’m interested in programming..there is always something to learn and a lot you dont know. 
+- 👀 I’m interested in programming..there is always something to learn and a lot you dont know.
+- 🌱 I’m a forever student, open-minded to new ideas and technologies
 - 🌱 I’m currently concentrating on functional programming with C# reading the Enrico Buonanno Functional Programming in C# (https://www.manning.com/books/functional-programming-in-c-sharp-second-edition)
 - 💞️ I’m looking to collaborate on something..not involved in anything right now.
 - 📫 How to reach me .. DM me on twitter @tanuk5
